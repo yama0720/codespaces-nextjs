@@ -29,6 +29,7 @@ function Home() {
   return (
     <main className={styles.main}>
       <h1>やまさきたいきのプログラミング</h1>
+      <h2>猫ちゃん</h2>
       <p>
         Fast Refresh is a Next.js feature that gives you instantaneous feedback
         on edits made to your React components, without ever losing component
